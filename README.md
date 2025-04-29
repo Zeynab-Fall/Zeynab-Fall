@@ -26,10 +26,10 @@ Welcome to my GitHub! I'm a **Data Science & Psychological Science** student pas
 ---
 
 ## 📌 Current Projects  
-📊 **Analyzing Mental Health Data** – Exploring trends in mental well-being using publicly available datasets  
-🤖 **Learning Machine Learning** – Implementing algorithms and experimenting with predictive modeling  
-📉 **Building Data Dashboards** – Creating interactive visualizations to communicate insights 
-🧠 **Anxiety Attack Severity Prediction** – Predicting the severity of anxiety attacks using Gradient Boosting, Random Forest, and Lasso Regression models applied to psychological, health, and lifestyle factors
+- **Analyzing Mental Health Data** – Exploring trends in mental well-being using publicly available datasets  
+- **Learning Machine Learning** – Implementing algorithms and experimenting with predictive modeling  
+- **Building Data Dashboards** – Creating interactive visualizations to communicate insights 
+- **Anxiety Attack Severity Prediction** – Predicting the severity of anxiety attacks using Gradient Boosting, Random Forest, and Lasso Regression models applied to psychological, health, and lifestyle factors
 
 ---
 
